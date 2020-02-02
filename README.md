@@ -51,3 +51,10 @@ Leonerd Adda Micheli Monaghan
 Leonerd Adda Mitchell Monaghan
 ```
 The example of sorted names will be printed on the screen and stored on file "sorted-names-list.txt"
+
+The unit test class also available on SorterNamesTest.java to ensure the sorting method is correct.
+
+Enhancement
+-----
+
+This project could be enhance to sort the Person with the other parameter instead of the person name, for example by the name and the age. This could be done with extend the Person class and add some additional variable for example age and then create a new class that implement PersonListInterface with another logic to read and sort the person
