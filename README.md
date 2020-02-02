@@ -1,4 +1,4 @@
-Description
+KST Coding Assessment
 =============
 
 This project is done to fullfill the KST Coding Assessment.
